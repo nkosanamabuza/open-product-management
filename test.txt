@@ -1,0 +1,2 @@
+testing how we will resolve conflict
+added line 2 to see the beavior
